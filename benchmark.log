@@ -1,0 +1,2 @@
+Mon, 09 Jul 2018 12:11:45 GMT: Parameters: url=http://s3.wasabisys.com, bucket=wasabi-benchmark-bucket, duration=60, threads=10, loops=1, size=1M
+Mon, 09 Jul 2018 12:12:08 GMT: Parameters: url=http://127.0.0.1:9000, bucket=wasabi-benchmark-bucket, duration=60, threads=10, loops=1, size=1M
